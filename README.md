@@ -1,2 +1,4 @@
 # GEOG-510
-Course website for GEOG-510 at the University of Tennessee, Knoxville
+Course website for GEOG-510 
+
+The course, Geographic Software Design is taught by Professor Qiusheng Wu at the University of Tennessee, Knoxville
